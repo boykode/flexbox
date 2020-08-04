@@ -144,6 +144,9 @@ main {
   background-color: #f16059;
   width: 30%;
   height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==========================================================================
